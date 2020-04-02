@@ -7,7 +7,7 @@ class Artist
   end
 
   def name
-    @name 
+    @name
   end
 
   def genre
