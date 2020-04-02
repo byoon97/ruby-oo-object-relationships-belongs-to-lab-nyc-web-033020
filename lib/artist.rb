@@ -5,4 +5,12 @@ class Artist
     @name = name
     @genre = genre
   end
+
+  def name
+    @name 
+  end
+
+  def genre
+    @genre
+  end
 end
